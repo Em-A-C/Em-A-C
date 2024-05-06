@@ -11,7 +11,7 @@
 #### - 📖 I’m currently learning ... web design and development
 #### - 💬 How to reach me ... www.linkedin.com/in/emily-cannon-88ab05244
 #### - 😄 Pronouns: ... they/them
-#### - ⚡ Fun fact: ... I love watching horror movies! 👻
+#### - ⚡ Fun fact: ... Horror movies are my favorite genre of movies to watch. 👻
 
 <!---
 Em-A-C/Em-A-C is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
